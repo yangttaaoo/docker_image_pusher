@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 minio/minio:RELEASE.2025-02-07T23-21-09Z
 rabbitmq:3.12-management
+mysql:8.0
