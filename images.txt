@@ -11,3 +11,5 @@ mysql:8.0
 zookeeper:3.8.1
 nacos/nacos-server:v2.5.0
 redis:7.2.1
+confluentinc/cp-zookeeper:7.3.3
+confluentinc/cp-kafka:7.3.3
