@@ -14,3 +14,4 @@ redis:7.2.1
 confluentinc/cp-zookeeper:7.3.3
 confluentinc/cp-kafka:7.3.3
 provectuslabs/kafka-ui:latest
+canal/canal-server:v1.1.8
