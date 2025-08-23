@@ -1,1 +1,1 @@
-theiaide/theia:latest
+theiaide/theia:1.17.2
