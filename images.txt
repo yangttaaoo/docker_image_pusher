@@ -1,3 +1,4 @@
 dremio/dremio-oss
 apache/drill
 apache/superset:latest
+kube-apiserver:v1.28.2
