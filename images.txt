@@ -1,2 +1,1 @@
-theiaide/theia:1.17.2
 dremio/dremio-oss
