@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/flannel/flannel:v0.25.4
+mindsdb/mindsdb
