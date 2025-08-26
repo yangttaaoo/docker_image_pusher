@@ -1,1 +1,1 @@
-flannel-cni-plugin:v1.2.0
+m.daocloud.io/docker.io/flannel/flannel:v0.25.4
