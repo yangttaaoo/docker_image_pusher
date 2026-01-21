@@ -1,1 +1,1 @@
-prometheuscommunity/dcgm-exporter
+ghcr.io/cartographer-sandbox/dcgm-exporter:latest
