@@ -1,4 +1,1 @@
-nacos/nacos-server:v2.3.0
-mysql:8.0.31
-prom/prometheus:latest
-grafana/grafana:latest
+nvidia/dcgm-exporter:3.1.6
