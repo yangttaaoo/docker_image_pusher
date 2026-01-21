@@ -1,1 +1,1 @@
-docker pull prometheuscommunity/dcgm-exporter
+prometheuscommunity/dcgm-exporter
