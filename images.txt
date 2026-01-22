@@ -1,1 +1,1 @@
-ghcr.io/cartographer-sandbox/dcgm-exporter:latest
+openjdk:17-slim
