@@ -1,2 +1,4 @@
 apache/kafka:4.0.0
 provectuslabs/kafka-ui:latest
+flink:2.0.0-scala_2.12
+clickhouse/clickhouse-server:25.3
