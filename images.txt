@@ -1,1 +1,2 @@
 apache/kafka:4.0.0
+provectuslabs/kafka-ui:latest
