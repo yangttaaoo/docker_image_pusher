@@ -1,1 +1,2 @@
 sizx/dm8:1-2-128-22.08.04-166351-20005-CTM
+nacos/nacos-server:2.0.3
