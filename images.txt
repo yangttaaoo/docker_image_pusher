@@ -1,1 +1,2 @@
 eclipse-temurin:17-jdk
+flink:2.2.0-scala_2.12
