@@ -1,1 +1,1 @@
-apache/doris:doris-fe-3.0.0
+apache/doris:fe-3.0.0
