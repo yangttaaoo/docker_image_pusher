@@ -1,2 +1,1 @@
-eclipse-temurin:17-jdk
-flink:2.2.1-scala_2.12
+apache/doris:doris-fe-3.0.0
