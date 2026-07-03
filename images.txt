@@ -1,1 +1,1 @@
-kicbase/stable:v0.0.50
+registry.k8s.io/ingress-nginx/controller:v1.11.1
