@@ -1,1 +1,1 @@
-postgres:16-alpine
+minio/minio:latest
